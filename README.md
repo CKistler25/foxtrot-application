@@ -1,5 +1,3 @@
-# Final Capstone
-​
-This directory contains all of the starter projects for the final capstone.
-​
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+# Foxtrot Application
+
+Welcome to Foxtrot. We are an online forum to host your organizations' employee resource groups. 
